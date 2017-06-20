@@ -1,2 +1,3 @@
 # atom
-A simple react demo 2
+A simple react demo
+Update made here
